@@ -1,0 +1,5 @@
+.DS_Store
+transflag.bin
+*.dol
+*.exe
+dolpack
